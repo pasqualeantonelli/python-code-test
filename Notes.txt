@@ -1,0 +1,18 @@
+Project: Stack Machines move to CC-38
+
+Today, me and Precious updated all of the r6 10 Dell Servers with DIMM’s.
+
+Here is the following updated configuration: 
+
+	service05 à 6 4G DIM, 6 8G DIM (72 G)
+ 	service03 à 6 4G DIM, 6 8G DIM (72 G)
+	cc-39 ru19 à  6 4G DIM, 6 8G DIM (72 G)
+	old stackmaster à  6 4G DIM, 6 8G DIM (72 G)
+	cc-39 ru21 à 8 8G DIM(64 G)
+	cc-39 ru20 à 12 4G DIM (48 G)
+	service04 à 12 4G DIM (48 G)
+ 
+According to Dexter on Friday, the C6220’s have 500G HDD and the r6 10’s have 2 146G HDD’s.
+However, I have not been able to check this yet.
+
+Will, please let me know if this configuration is appropriate so that we can start moving the machines and I will send you an excel file of all this on Wednesday!
